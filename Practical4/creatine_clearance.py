@@ -1,3 +1,7 @@
+#get users' data of age, weight and Cr
+#judge user's gender and ensure corresponding coefficient k
+#judge if age, weight, Cr and gender is illegal with "elif”
+#bring the data into the formula and output the result
 age = int (input("Please enter the age of the student in years: "))
 weight = int (input("Please enter the weight of the student in kg: "))
 Cr = float (input("Please enter your serum creatinine level (μmol/L): "))
