@@ -1,0 +1,9 @@
+My question: How has the DALYs rate in Zimbabwe changed compared to Afghanistan over the entire recorded period?
+
+Initial line: 47
+
+Result analysis:
+Zimbabwe's DALYs rose then fell, while Afghanistan's DALYs declined consistently.
+This plot shows DALYs rate trends for Zimbabwe and Afghanistan from 1990 to 2019.
+Zimbabwe's DALYs increased to a peak around 2000-2004 and then decreased.
+Afghanistan's DALYs showed a steady downward trend over time.
