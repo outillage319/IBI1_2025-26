@@ -10,3 +10,7 @@ I havev changed the variable in print sentence in order to show the total infect
 
 For mystery_code.py in Week4:
 I changed the commented line to tell that the code generates 11 random numbers rather than 10.
+
+For Week5:
+I have changed names of all the scripts to ensure there are no spaces.
+
