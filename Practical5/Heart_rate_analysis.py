@@ -17,6 +17,11 @@ for i in range(len(heart_rate)):
     else:
         print("Patient", i+1, "has a normal heart rate of", heart_rate[i], "bpm.")
         normal += 1
+
+print("Number of patients with low heart rate:", low)
+print("Number of patients with high heart rate:", high)
+print("Number of patients with normal heart rate:", normal)
+
 if low > high and low > normal:
     print("Most patients have a low heart rate.")
 elif high > normal:

@@ -14,3 +14,5 @@ I changed the commented line to tell that the code generates 11 random numbers r
 For Week5:
 I have changed names of all the scripts to ensure there are no spaces.
 
+For Heart_rate_analysis in Week5:
+I have added some print sentences to show how many patients are in each category.
