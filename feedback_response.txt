@@ -1,1 +1,9 @@
 I will decribe what changes I have made accordong to the formative feedback in this file.
+
+For Reflection.txt in Week3:
+I was initially put it outside of Practical3 folder, so the marker failed to find the file.
+Now I have moved it to the right position and add some reflective content.
+
+For infection.py in Week4:
+In the former version, the printed result was the numder of newly infected students, which did not meet the requirement.
+I havev changed the variable in print sentence in order to show the total infected students number.

@@ -10,6 +10,6 @@ while x <= 91:
     i += 1 #accumulated day number
     z = x * y #infected student number in the day
     x += z #accumulated infected student number
-    print("The number of infected students in day " + str(i) + " is:", z)
+    print("The number of infected students in day " + str(i) + " is:", x)
 else:
     print("The whole days are:", i)
