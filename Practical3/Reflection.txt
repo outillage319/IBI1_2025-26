@@ -1,0 +1,6 @@
+This is an example file for reflection in IBI1_2025-26.
+
+During this course, I have learnt version control, which recrods changes I have made on the files and is convenient for me to trace back.
+I have also learnt how to navigate Unix-like systems to operate on the files and how to write simple programs in Python.
+
+I was able to edit this file to show changes in the lecture
