@@ -7,3 +7,6 @@ Now I have moved it to the right position and add some reflective content.
 For infection.py in Week4:
 In the former version, the printed result was the numder of newly infected students, which did not meet the requirement.
 I havev changed the variable in print sentence in order to show the total infected students number.
+
+For mystery_code.py in Week4:
+I changed the commented line to tell that the code generates 11 random numbers rather than 10.

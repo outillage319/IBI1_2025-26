@@ -1,5 +1,5 @@
 # What does this piece of code do?
-# Answer: This code simulates a process where it draws random numbers between 1 and 10, ten times, and keeps a running total of these numbers. 
+# Answer: This code simulates a process where it draws random numbers between 0 and 10, ten times, and keeps a running total of these numbers. 
 # The variable `total_rand` accumulates the sum of the random numbers drawn, while `progress` keeps track of how many times a number has been drawn.
 # Once `progress` exceeds 10, the loop ends and the total sum of the random numbers is printed.
 
