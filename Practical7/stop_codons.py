@@ -27,8 +27,8 @@ def find_inframe_stop_codons(sequence):
 
 
 def main():
-    input_file = 'C:\\Users\\黄崇严\\OneDrive - International Campus, Zhejiang University\\文档\\IBI\\IBI1_2025-26\\Practical7\\Saccharomyces_cerevisiae.R64-1-1.cdna.all.fa'
-    output_file = 'stop_genes.fa'
+    input_file = 'Practical7\Saccharomyces_cerevisiae.R64-1-1.cdna.all.fa'
+    output_file = 'Practical7\stop_genes.fa'
 
     total_genes = 0
     genes_with_stops = 0
