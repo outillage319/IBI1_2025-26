@@ -1,0 +1,9 @@
+The practical was quite diffcult for me. 
+
+It was herd to understand the infection probability model and turn it into python code form.
+The main difficulty was using np.random.choice correctly to simulate infection and recovery and understanding how to calculate the infection probability with beta and the proportion of infected people.
+I also struggled with the 2D spatial model when dealing with neighbours and grid updates.
+
+Despite the difficulty, I have learnt a lot from this week's practical.
+For example, I understood how disease spreads, how vaccination creates herd immunity, and how spatial structure affects transmission.
+Meanwhile, I improved my skills in using numpy and matplotlib for simulation and plotting.
