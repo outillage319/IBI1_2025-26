@@ -30,7 +30,6 @@ def main():
     input_file = 'C:\\Users\\黄崇严\\OneDrive - International Campus, Zhejiang University\\文档\\IBI\\IBI1_2025-26\\Practical7\\Saccharomyces_cerevisiae.R64-1-1.cdna.all.fa'
     output_file = 'stop_genes.fa'
 
-
     total_genes = 0
     genes_with_stops = 0
 
@@ -77,7 +76,6 @@ def main():
     print(f"Total genes processed: {total_genes}")
     print(f"Genes with in-frame stop codons: {genes_with_stops}")
     print(f"Output written to: {output_file}")
-
 
 if __name__ == '__main__':
     main()

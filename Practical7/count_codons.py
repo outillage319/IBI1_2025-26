@@ -9,7 +9,6 @@ def extract_gene_name(header):
         return gene_match.group(1)
     return header.split()[0]
 
-
 def find_longest_orf_codons(sequence, target_stop):
     seq = sequence.upper()
     stop_codons = ['TAA', 'TAG', 'TGA']
@@ -30,7 +29,6 @@ def find_longest_orf_codons(sequence, target_stop):
                     codons.append(codon)
 
     return longest_orf_codons
-
 
 def get_user_stop_codon():
     valid_stops = ['TAA', 'TAG', 'TGA']
@@ -141,7 +139,6 @@ def main():
             percentage = (count / sum(all_codon_counts.values())) * 100
             f.write(f"{codon}\t{count}\t{percentage:.2f}%\n")
     print(f"Codon counts saved to: {output_text}")
-
 
 if __name__ == '__main__':
     main()

@@ -52,5 +52,4 @@ plt.ylabel('number of people')
 plt.title('SIR model')
 plt.legend()
 plt.tight_layout()
-
 plt.show()

@@ -44,7 +44,7 @@ plt.xlabel("Year")
 plt.ylabel("DALYs")
 plt.show()
 
-# one other question: How has the DALYs rate in Zimbabwe changed compared to Afghanistan over the entire recorded period?
+# One other question: How has the DALYs rate in Zimbabwe changed compared to Afghanistan over the entire recorded period?
 countries = ["Zimbabwe", "Afghanistan"]
 comparison_data = dalys_data[dalys_data["Entity"].isin(countries)]
 plt.figure(figsize=(10, 6))
